@@ -1,0 +1,573 @@
+body {
+    margin: 0 auto;
+    font-family:'Roboto', sans-serif;
+    font-size: 15px;
+    background-color: gainsboro;
+    color: black;
+}
+
+.title {
+    position: absolute;
+    width: 253px;
+    height: 29px;
+    left: 405px;
+    top: 80px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+.container {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 405px;
+    top: 147px;
+    background-color: white;
+    display: inline-flex;
+}
+
+.image {
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+.text {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+}
+.text2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+}
+
+.tag {
+    padding-left: 87px;
+    padding-top: 264px;
+}
+.price {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px ;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+}
+.click {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    background-color: #f13c6e;
+    border-radius: 30px;
+}
+.input {
+    position: absolute;
+    width: 51px;
+    height: 17px;
+    left: 37px;
+    top: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #f13c6e;
+    border: 1px solid #f13c6e;
+    color: white;
+}
+
+
+
+
+.container2 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 690px;
+    top: 147px;
+    background-color: white;
+    display: inline-flex;
+}
+.image2 {
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+.text3 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+}
+.text4 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+}
+.tag2 {
+    padding-left: 87px;
+    padding-top: 264px;
+}
+.price2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px ;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+}
+.click2 {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    background-color: #f13c6e;
+    border-radius: 30px;
+}
+
+.input2 {
+    position: absolute;
+    width: 51px;
+    height: 17px;
+    left: 37px;
+    top: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #f13c6e;
+    border: 1px solid #f13c6e;
+    color: white;
+}
+
+
+
+.container3 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 975px;
+    top: 147px;
+    background-color: white;
+    display: inline-flex;
+}
+.image3 {
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+.text5 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+}
+.text6 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+}
+.tag3 {
+    padding-left: 87px;
+    padding-top: 264px;
+}
+.price3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px ;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+}
+.click3 {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    background-color: #f13c6e;
+    border-radius: 30px;
+}
+
+.input3 {
+    position: absolute;
+    width: 51px;
+    height: 17px;
+    left: 37px;
+    top: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #f13c6e;
+    border: 1px solid #f13c6e;
+    color: white;
+}
+
+
+
+.container4 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 1260px;
+    top: 147px;
+    background-color: white;
+    display: inline-flex;
+}
+.image4 {
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+.text7 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+}
+.text8 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+}
+.tag4 {
+    padding-left: 87px;
+    padding-top: 264px;
+}
+.price4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px ;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+}
+.click4 {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    background-color: #f13c6e;
+    border-radius: 30px;
+}
+
+.input4 {
+    position: absolute;
+    width: 51px;
+    height: 17px;
+    left: 37px;
+    top: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #f13c6e;
+    border: 1px solid #f13c6e;
+    color: white;
+
+}
+
+
+
+
+
+
+
+.footer {
+    position: absolute;
+    width: 1920px;
+    height: 557px;
+    left: 0px;
+    top: 590px;
+    background-color: white;
+}
+
+
+
+
+.category {
+    position: absolute;
+    width: 99px;
+    height: 40px;
+    left: 405px;
+    top: 60px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140.62%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    max-width: 255px;
+}
+.category1 {
+    position: absolute;
+    width: 99px;
+    height: 40px;
+    left: 690px;
+    top: 60px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140.62%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    max-width: 255px;
+}
+.category2 {
+    position: absolute;
+    width: 99px;
+    height: 40px;
+    left: 975px;
+    top: 60px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140.62%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    max-width: 255px;
+}
+.category3 {
+    position: absolute;
+    width: 99px;
+    height: 40px;
+    left: 1260px;
+    top: 60px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140.62%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    max-width: 255px;
+}
+
+.footer_inner {
+    position: absolute;
+    width: 82px;
+    height: 158px;
+    left: 405px;
+    top: 155px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    color: gray;
+}
+.footer_inner1 {
+    position: absolute;
+    width: 82px;
+    height: 158px;
+    left: 690px;
+    top: 155px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    color: gray;
+}
+.footer_inner2 {
+    position: absolute;
+    width: 82px;
+    height: 158px;
+    left: 975px;
+    top: 155px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    color: gray;
+}
+.footer_inner3 {
+    position: absolute;
+    width: 82px;
+    height: 158px;
+    left: 1260px;
+    top: 155px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    color: gray;
+}
+
+
+.foot {
+    position: absolute;
+    width: 1920px;
+    height: 557px;
+    border-top: 1px solid gainsboro;
+    top: 373px;
+}
+
+
+.you {
+    position: absolute;
+    left: 405px;
+    top: 37px;
+}
+.tube {
+    position: absolute;
+    left: 416px;
+    top: 52px;
+}
+.v {
+    position: absolute;
+    left: 470px;
+    top: 37px;
+}
+.k {
+    position: absolute;
+    left: 478px;
+    top: 52px;
+}
+.face {
+    position: absolute;
+    left: 535px;
+    top: 37px;
+}
+.book {
+    position: absolute;
+    left: 551px;
+    top: 50px;
+}
+.ins {
+    position: absolute;
+    left: 596px;
+    top: 37px;
+}
+.ta {
+    position: absolute;
+    left: 607.5px;
+    top: 49px;
+}
+.gram {
+    position: absolute;
+    left: 612.5px;
+    top: 54.5px;
+}
+.adress {
+    position: absolute;
+    width: 227px;
+    height: 16px;
+    left: 846px;
+    top: 52px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.number {
+    position: absolute;
+    width: 127px;
+    height: 19px;
+    left: 1178px;
+    top: 50px;
+    font-size: 16px;
+    line-height: 19px;
+}
+.button {
+    position: absolute;
+    left: 1345px;
+    top: 40px;
+}
+.link {
+    background-color: white;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    border-radius: 40px;
+    border: 2px solid #f13c6e;
+}
+.link:hover {
+    background-color: #f13c6e;
+    color: white;
+}
+
+.end {
+    position: absolute;
+    width: 1920px;
+    height: 64px;
+    top: 1083px;
+    background-color: #EFEFEF;
+}
+.textt {
+    position: absolute;
+    width: 584px;
+    height: 14px;
+    left: 405px;
+    top: 25px;
+    font-size: 12px;
+    line-height: 14px;
+    color: gray;
+}
+.texttt {
+    position: absolute;
+    width: 181px;
+    height: 14px;
+    left: 1334px;
+    top: 25px;
+    font-size: 12px;
+    line-height: 14px;
+    color: gray;
+}
